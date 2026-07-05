@@ -2,6 +2,12 @@
 
 A classic .NET Framework 4.7.2 Windows Forms application designed for a bicycle retailer ("Goldfish Corporation") where customers can browse premium bicycles, customize their orders, apply promotional discounts, and complete a simulated checkout and payment process. The application also includes an administrative dashboard with interactive charts displaying sales performance metrics.
 
+
+## 📸 Application Preview
+Here is a preview of the main application window:
+
+![Application Interface](src/Resources/application.png)
+
 ## 🚲 Features
 
 - **User Authentication**:
