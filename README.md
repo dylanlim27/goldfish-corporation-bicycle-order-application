@@ -32,7 +32,6 @@ A classic .NET Framework 4.7.2 Windows Forms application designed for a bicycle 
 - **Frontend/UI**: Windows Forms (WinForms) with legacy Visual Basic PowerPacks for custom shape rendering.
 - **Backend Logic**: C# (.NET Framework 4.7.2).
 - **Graphics & Visuals**: GDI+ and MS Chart Controls.
-- **Documentation**: Project report included as [DBS Group Project (Updated).docx](DBS%20Group%20Project%20%28Updated%29.docx).
 
 ## 🚀 Setup and Compilation
 
