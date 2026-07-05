@@ -62,11 +62,11 @@
     <Compile Include="Arktos 29 ST GX Eagle GreyBlue Review Form.Designer.cs">
       <DependentUpon>Arktos 29 ST GX Eagle GreyBlue Review Form.cs</DependentUpon>
     </Compile>
-    <Compile Include="Atlas Uletegra Mechanical Disc Carbon Blue Review Form.cs">
+    <Compile Include="Atlas Ultegra Mechanical Disc Carbon Blue Review Form.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Atlas Uletegra Mechanical Disc Carbon Blue Review Form.Designer.cs">
-      <DependentUpon>Atlas Uletegra Mechanical Disc Carbon Blue Review Form.cs</DependentUpon>
+    <Compile Include="Atlas Ultegra Mechanical Disc Carbon Blue Review Form.Designer.cs">
+      <DependentUpon>Atlas Ultegra Mechanical Disc Carbon Blue Review Form.cs</DependentUpon>
     </Compile>
     <Compile Include="Create an Account Form.cs">
       <SubType>Form</SubType>
@@ -154,8 +154,8 @@
     <EmbeddedResource Include="Arktos 29 ST GX Eagle GreyBlue Review Form.resx">
       <DependentUpon>Arktos 29 ST GX Eagle GreyBlue Review Form.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="Atlas Uletegra Mechanical Disc Carbon Blue Review Form.resx">
-      <DependentUpon>Atlas Uletegra Mechanical Disc Carbon Blue Review Form.cs</DependentUpon>
+    <EmbeddedResource Include="Atlas Ultegra Mechanical Disc Carbon Blue Review Form.resx">
+      <DependentUpon>Atlas Ultegra Mechanical Disc Carbon Blue Review Form.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Create an Account Form.resx">
       <DependentUpon>Create an Account Form.cs</DependentUpon>
