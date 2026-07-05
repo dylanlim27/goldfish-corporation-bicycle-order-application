@@ -6,7 +6,7 @@ A classic .NET Framework 4.7.2 Windows Forms application designed for a bicycle 
 ## 📸 Application Preview
 Here is a preview of the main application window:
 
-![Application Interface](src/Resources/application.png)
+<img src="src/Resources/application.png" alt="Application Interface" width="60%">
 
 ## 🚲 Features
 
