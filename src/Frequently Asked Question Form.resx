@@ -1,0 +1,175 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <metadata name="menuStrip1.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>17, 17</value>
+  </metadata>
+  <data name="fAQRichTextBox.Text" xml:space="preserve">
+    <value>Do you sell to customers directly?
+Goldfish Corporation ships bikes directly to your doorstep. Minimal assembly is required, and we have customer service ready to provide support with any assembly questions. 
+
+How much assembly is required?
+Assembly is simple. Once you install the front wheel and handlebars, you will be ready to ride. The tires will be set up tubeless from the factory, so you can just inflate to your preferred pressure and go!
+
+How long is the warranty period?
+Goldfish Corporation provides 3 types of Warranty Package - Basic, Exterior and Crash Replacement Warranty.
+
+Where is the serial number located on my bike?
+The serial number on all mountain bikes is located next to the QR code on the bottom of the bottom bracket shell. On road bikes, the serial number is inside the BB shell and can be accessed only by removing the bottom bracket (this is done to avoid potential removal of the serial number in the case of theft).
+
+Do you offer custom paint on bikes?
+For over a decade, Alchemy has been hand-painting carbon and titanium dream bikes in Denver, Colorado. Take a look at some of the custom bikes we have paint here.
+
+Do I have any ability to customize the spec details on my road bike?
+On all complete road bikes, you have the ability to determine handlebar width, stem length, seat post offset, crank length and gearing at no additional charge. We also allow you to choose the model ENVE wheelset and cockpit and will quote custom components like Chris King hubs and headsets.
+
+Are all Alchemy bikes made in America?
+All of Alchemy’s road, gravel, and electrics bikes are made in Denver, Colorado, as well as the Arkti titanium hardtail mountain bike. With the 27.5, you have the option to purchase a Made in America version or one that is sourced externally. All of the Arktos 29 and nine7five mountain bikes are made by our manufacturing partner, to our same exacting standards.
+
+Do you offer returns on bikes?
+Purchasing your dream ride is a substantial investment, so here’s our promise: If you are not 100% satisfied with your new Alchemy Bicycle, you have two weeks from date of purchase to return it.
+
+What is the widest tire that will fit an Arktos?
+There is not a detailed standard for tire width from the tire manufacturers, and different rim widths create different widths with the same tire, but a general rule of thumb is 2.5 is the max tire an Arktos will accept.
+
+What type of bottom bracket do I need for my bike?
+All of the mountain bikes use a 73mm threaded BB shell.
+All of the carbon road, gravel and all-road bikes use a PF86mm bottom bracket.
+All titanium bikes use a 73mm threaded BB shell. (Note: Current titanium bikes use a threaded shell, but older models used a PF86mm bb shell, so you will need to confirm which model you have if you are searching for a replacement)
+
+Where is my serial number located? 
+The serial number on your road, gravel or all-road frame is inside the bottom bracket shell. The serial number for your Arktos is located on the outside of your bottom bracket shell next to the QR code.
+
+What are the rear shock reducer size specs for my bike?
+All Arktos use 10mmX22mm hardware.
+
+Where can I purchase parts for my Alchemy? 
+We stock all parts for current model year and older Alchemy bicycles. The assembly document for the Arktos details all parts for the mountain bikes and you can email us a picture of which parts you need for a road, gravel or all road bike.
+
+I am the second owner of my bike, do I still have a warranty? 
+Goldfish Corporation’s  warranty applies to the original owner only and is non-transferable. The original owner must register their purchase within 90-days on the Goldfish Corporation website.
+
+Is there an owner’s manual for my bike? 
+The owner’s manual for your bike should have been in the box with your new bike, but we also have an electronic version here.
+
+Do you demo bikes?
+Goldfish Corporation has a full demo schedule of events we will attend this year and it is listed under the demo tab on our website. You can also schedule an appointment with us. 
+</value>
+  </data>
+</root>

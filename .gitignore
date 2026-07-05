@@ -1,0 +1,34 @@
+## Visual Studio / C# standard gitignore
+
+# Build outputs
+[Bb]in/
+[Oo]bj/
+[Pp]ackages/
+
+# Visual Studio files
+.vs/
+*.user
+*.suo
+*.userprefs
+*.docstates
+*.dbmdl
+*.aps
+*.opendb
+*.sdf
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Mono / VS Mac
+.mono/
+*.m4n
+*.m4a
+
+# ReSharper / JetBrains
+_ReSharper*/
+*.[Rr]e[Ss]harper
+*.DotSettings.user
+
+# Office temporary files (Word/Excel)
+~$*
